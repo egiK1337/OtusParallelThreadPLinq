@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\bin\Debug\net8.0\OtusParallelThreadPLinq.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\bin\Debug\net8.0\OtusParallelThreadPLinq.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\bin\Debug\net8.0\OtusParallelThreadPLinq.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\bin\Debug\net8.0\OtusParallelThreadPLinq.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\bin\Debug\net8.0\OtusParallelThreadPLinq.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.sourcelink.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\refint\OtusParallelThreadPLinq.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\OtusParallelThreadPLinq.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\OtusParallelThreadPLinq\OtusParallelThreadPLinq\obj\Debug\net8.0\ref\OtusParallelThreadPLinq.dll
